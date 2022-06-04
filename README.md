@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello everybody, i am levi, i'm brazilian, I'm studying in the third year of high school. I'm still studying programming, but I'm already practicing a little and I like it a lot, and currently i am using HTML, CSS, JavaScript and PHP.
+
+
 <!--
 **levimaia09/levimaia09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
