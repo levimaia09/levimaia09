@@ -2,7 +2,7 @@
 
 Hello everybody, i am levi, i'm brazilian, I'm studying in the third year of high school. I'm still studying programming, but I'm already practicing a little and I like it a lot, and currently i am using HTML, CSS, JavaScript and PHP.
 
-<h2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davipbr15&theme=monokai" alt="davipbr15" /></a></h2>
+<h2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levimaia09&theme=monokai" alt="levimaia09" /></a></h2>
 
 
 <!--
