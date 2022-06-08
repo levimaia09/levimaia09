@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, i'm Levi 👋</h1>
 
-<p align="center">Hello everybody, i am Levi, i'm brazilian, I'm studying in the third year of high school. I'm still studying programming, but I'm already practicing a little and I like it a lot, and currently i am using HTML, CSS, JavaScript and PHP.<p>
+<p align="center">EN: Hello everybody, i am Levi, i'm brazilian, I'm studying in the third year of high school. I'm still studying programming, but I'm already practicing a little and I like it a lot, and currently i am using HTML, CSS, JavaScript and PHP.</p>
+    
+<p align="center">PT-BR: Olá pessoal, sou Levi, sou brasileiro, estou cursando o terceiro ano do ensino médio. Ainda estou estudando programação, mas já estou praticando um pouco e gosto muito, e atualmente estou usando HTML, CSS, JavaScript e PHP.</p>
 
 <h2 align="left">Trophies:</h2>
 <h2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levimaia09&theme=monokai" alt="levimaia09" /></a></h2>
