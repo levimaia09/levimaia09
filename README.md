@@ -5,7 +5,7 @@
 <p align="center">PT-BR: Olá pessoal, sou Levi, sou brasileiro, estou cursando o terceiro ano do ensino médio. Ainda estou estudando programação, mas já estou praticando um pouco e gosto muito, e atualmente estou usando HTML, CSS, JavaScript e PHP.</p>
 
 <h2 align="left">Trophies:</h2>
-<h2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levimaia09&theme=monokai" alt="levimaia09" /></a></h2>
+<h2 align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levimaia09&theme=monokai" alt="levimaia09" /></a></h2>
 
 <div>
 <h2 align="left">Some of my stats:</h2>
